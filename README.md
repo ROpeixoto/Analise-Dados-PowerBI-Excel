@@ -1,4 +1,4 @@
-# PowerBI-Excel-Projetos (ou o nome escolhido)
+# PowerBI-Excel-Projetos 
 
 Este repositório contém uma coleção de projetos e atividades desenvolvidas utilizando **Microsoft Power BI** e **Microsoft Excel**. O objetivo principal é demonstrar habilidades em análise de negócios, modelagem de dados, criação de dashboards interativos e automação de processos com Power Query.
 
@@ -22,8 +22,4 @@ Os projetos estão organizados por temas, cada um contendo arquivos `.pbix` (Pow
 
 -   **Microsoft Power BI**: Para visualização e análise de dados.
 -   **Microsoft Excel**: Para armazenamento de dados, Power Query e outras funcionalidades de planilha.
-
-## Como Visualizar os Projetos
-
-Para interagir com os arquivos `.pbix`, você precisará ter o **Power BI Desktop** instalado. Os arquivos `.xlsx` podem ser abertos com o **Microsoft Excel**.
 
